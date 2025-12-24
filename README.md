@@ -1,15 +1,42 @@
-# 👋 ¡Hola! Soy Erlyn Valerio
+👋 Hola, soy Erlyn Valerio
 
-🎓 Estudiante de Desarrollo de Software en ITLA  
-💻 Apasionado por el desarrollo web (HTML, CSS, JavaScript básico)  
-🚀 En proceso de aprendizaje continuo  
-📚 He trabajado en proyectos personales como inventarios y catálogos web  
-📍 Santo Domingo Norte
+Desarrollador Web Frontend enfocado en la creación de sitios web modernos, funcionales y orientados a conversión.
 
-### 🛠️ Tecnologías que uso:
-- HTML, CSS
-- JavaScript (básico)
-- SQL (básico)
-- Git y GitHub
+Trabajo principalmente en el desarrollo de páginas web para negocios, tiendas y marcas personales, con énfasis en diseño limpio, experiencia de usuario y contacto directo vía WhatsApp.
 
-📫 **Contacto:** erlinvfabian01@gmail.com
+━━━━━━━━━━━━━━━━━━
+🧠 Perfil Profesional
+━━━━━━━━━━━━━━━━━━
+• Desarrollo de interfaces web modernas y responsivas  
+• Implementación de catálogos de productos y páginas comerciales  
+• Enfoque en simplicidad, velocidad y claridad para el usuario final  
+• Experiencia creando proyectos reales para práctica y portafolio  
+
+━━━━━━━━━━━━━━━━━━
+🛠️ Stack Tecnológico
+━━━━━━━━━━━━━━━━━━
+• HTML5 semántico  
+• CSS3 (Flexbox, Grid, Responsive Design)  
+• JavaScript (DOM, eventos, lógica de interacción)  
+• SQL (consultas básicas)  
+• Git & GitHub (control de versiones)  
+• Deploy en Netlify  
+
+━━━━━━━━━━━━━━━━━━
+📂 Tipo de Proyectos
+━━━━━━━━━━━━━━━━━━
+• Tiendas web sin pasarela de pago (ventas por WhatsApp)  
+• Catálogos digitales de productos  
+• Landing pages para negocios  
+• Prototipos de paneles administrativos  
+
+━━━━━━━━━━━━━━━━━━
+🌐 Portafolio
+━━━━━━━━━━━━━━━━━━
+https://portafolio-erlyn-valerio.netlify.app
+
+━━━━━━━━━━━━━━━━━━
+📬 Contacto
+━━━━━━━━━━━━━━━━━━
+📧 erlynfabian01@gmail.com  
+📍 República Dominicana
