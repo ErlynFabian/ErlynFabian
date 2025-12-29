@@ -1,30 +1,42 @@
-<p align="left">👋 Erlyn Valerio<br>Desarrollador Web Frontend enfocado en la creación de sitios web funcionales, responsivos y orientados a negocios.<br><br>Trabajo en el desarrollo de páginas web para tiendas, catálogos de productos y negocios locales, priorizando una experiencia clara para el usuario y contacto directo vía WhatsApp.<br><br>🧠 Perfil<br>Desarrollo de interfaces web modernas y responsivas<br>Implementación de catálogos de productos y páginas comerciales<br>Enfoque en simplicidad, rendimiento y usabilidad<br>Experiencia construyendo proyectos prácticos para portafolio<br>🛠️ Tecnologías<br>HTML5 (semántico)<br>CSS3 (Flexbox, Grid, Responsive Design)<br>JavaScript (DOM, eventos, lógica de interacción)<br>SQL (consultas básicas)<br>Git & GitHub<br>Deploy en Netlify<br>📂 Proyectos<br>Tiendas web sin pasarela de pago (ventas por WhatsApp)<br>Catálogos digitales de productos<br>Landing pages para negocios<br>Prototipos de paneles administrativos<br>🌐 Portafolio<br>👉 https://portafolio-erlyn-valerio.netlify.app<br><br>📬 Contacto<br>📧 erlynfabian01@gmail.com<br>📍 República Dominicana</p>
+## 👋 Erlyn Valerio
 
-###
+Desarrollador Web Frontend enfocado en la creación de sitios web funcionales, responsivos y orientados a negocios.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
+Trabajo en el desarrollo de páginas web para tiendas, catálogos de productos y negocios locales, priorizando una experiencia clara para el usuario y contacto directo vía WhatsApp.
 
-###
+---
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
+### 🧠 Perfil
+- Desarrollo de interfaces web modernas y responsivas
+- Implementación de catálogos de productos y páginas comerciales
+- Enfoque en simplicidad, rendimiento y usabilidad
+- Experiencia construyendo proyectos prácticos para portafolio
 
-###
+---
+
+### 🛠️ Tecnologías
+- HTML5 (semántico)
+- CSS3 (Flexbox, Grid, Responsive Design)
+- JavaScript (DOM, eventos, lógica de interacción)
+- SQL (consultas básicas)
+- Git & GitHub
+- Deploy en Netlify
+
+---
+
+### 📂 Proyectos
+- Tiendas web sin pasarela de pago (ventas por WhatsApp)
+- Catálogos digitales de productos
+- Landing pages para negocios
+- Prototipos de paneles administrativos
+
+---
+
+### 🌐 Portafolio
+👉 https://portafolio-erlyn-valerio.netlify.app
+
+---
+
+### 📬 Contacto
+📧 erlynfabian01@gmail.com  
+📍 República Dominicana
