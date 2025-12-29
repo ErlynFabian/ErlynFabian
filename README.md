@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=180&section=header&text=Erlyn%20Valerio&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=180&section=header&text=Erlyn%20Fabian&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 Soy **Desarrollador Web Frontend**, enfocado en crear **páginas web modernas, responsivas y orientadas a negocios**.
 
-Trabajo con **tiendas online sin pasarela de pago**, catálogos digitales y páginas comerciales, facilitando el contacto directo con clientes vía **WhatsApp**.
+Me especializo en **tiendas web sin pasarela de pago**, catálogos digitales y páginas comerciales, priorizando una experiencia clara para el usuario y **contacto directo vía WhatsApp**.
 
 ---
 
@@ -20,7 +20,7 @@ Trabajo con **tiendas online sin pasarela de pago**, catálogos digitales y pág
 - Interfaces modernas y responsivas
 - Páginas web comerciales y catálogos
 - Enfoque en usabilidad y rendimiento
-- Proyectos prácticos listos para producción
+- Proyectos listos para producción
 
 ---
 
@@ -43,11 +43,11 @@ Trabajo con **tiendas online sin pasarela de pago**, catálogos digitales y pág
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErlynValerio&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ErlynFabian&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErlynValerio&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErlynFabian&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -65,7 +65,7 @@ Trabajo con **tiendas online sin pasarela de pago**, catálogos digitales y pág
   </a>
 </p>
 
-📍 República Dominicana
+📍 **República Dominicana**
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0ea5e9&height=120&section=footer" />
