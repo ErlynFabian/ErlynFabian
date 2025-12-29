@@ -27,7 +27,7 @@ Trabajo con **tiendas web sin pasarela de pago**, catálogos digitales y página
 ## 🛠️ Tecnologías
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,netlify,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,netlify,&theme=dark" />
 </p>
 
 ---
