@@ -49,7 +49,7 @@ Trabajo con **tiendas web sin pasarela de pago**, catálogos digitales y página
 ---
 
 ## 🌐 Portafolio
-👉 **[https://portafolio-erlyn-valerio.netlify.app](https://portafolio-erlynvalerio.vercel.app/)**
+👉 **https://portafolio-erlynvalerio.vercel.app/**
 
 ---
 
