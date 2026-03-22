@@ -28,7 +28,7 @@ Mi enfoque principal es ayudar a emprendedores y negocios a digitalizarse median
 ### 🛠️ Tecnologías & Herramientas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,framer,git,github,vscode,netlify,vite,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,framer,git,github,vscode,netlify,vite" />
 </div>
 
 #### **Especialidades:**
