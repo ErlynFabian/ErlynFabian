@@ -13,6 +13,7 @@
 Profesional con conocimientos en desarrollo web y manejo de datos, con experiencia en el uso de herramientas tecnológicas, bases de datos y análisis de información. He participado en proyectos donde he gestionado, organizado y optimizado datos, así como en el desarrollo de soluciones digitales básicas.
 
 Cuento con experiencia en el uso de control de versiones con Git, colaboración activa con equipos de desarrollo y apoyo en pruebas y despliegues de aplicaciones. Soy una persona responsable, con rápido aprendizaje y orientación a resultados.
+
 ---
 
 ## 🧠 Perfil Profesional
