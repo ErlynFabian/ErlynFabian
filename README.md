@@ -10,9 +10,9 @@
 
 ## 👋 Sobre mí
 
-Profesional con conocimientos en desarrollo web y manejo de datos, con experiencia en el uso de herramientas tecnológicas, bases de datos y análisis de información. He participado en proyectos donde he gestionado, organizado y optimizado datos, así como en el desarrollo de soluciones digitales básicas.
+Profesional con conocimientos en **desarrollo web** y **manejo de datos**, con experiencia en el uso de **herramientas tecnologicas**, **bases de datos** y **analisis de informacion**. He participado en proyectos donde he gestionado, organizado y optimizado datos, asi como en el desarrollo de **soluciones digitales basicas**.
 
-Cuento con experiencia en el uso de control de versiones con Git, colaboración activa con equipos de desarrollo y apoyo en pruebas y despliegues de aplicaciones. Soy una persona responsable, con rápido aprendizaje y orientación a resultados.
+Cuento con experiencia en el uso de **control de versiones** con **Git**, **colaboracion activa** con equipos de desarrollo y apoyo en pruebas y despliegues de aplicaciones. Soy una persona responsable, con **rapido aprendizaje**, buena comunicacion y **orientacion a resultados**.
 
 ---
 
